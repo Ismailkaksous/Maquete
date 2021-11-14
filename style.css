@@ -1,0 +1,53 @@
+body{
+    margin: 0%;
+    box-sizing: border-box;
+}
+header {
+    background: url('images/Header.png') no-repeat;
+    height: 500px;
+    background-size: cover;
+    background-position:center;
+    opacity: 0.60;
+}
+.navbar {
+    background-color: rgba(151, 167, 187, 0.5);
+} 
+.Law{
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+#Code{
+    background-color: rgb(247, 153, 14);
+    padding: 3% 0;
+    
+}
+.growth{
+    text-align: center;
+    position: relative;
+    top: 100px;
+    right: 30px;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 3px black;
+}
+#bo{
+    background: url('images/Bois.png') no-repeat;
+    background-size: cover;
+    background-position:center;
+    opacity: 0.60;
+}
+#triangle{
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 30px solid rgb(53, 85, 107);
+    position: relative;
+    left: 520px;
+    top: 20px;
+}
+textarea{
+    resize: none;
+    height: 6.5em;
+}
+
